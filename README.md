@@ -6,7 +6,7 @@
 
 The XDEV Application Framework provides an abstraction over database dialects as part of its SqlEngine. This module is the Database Adapter for MsSQL 2008 which includes the MsSQL-specific implementation for database access.
 
-Note: This adapter is also compatible for MSSQL 2005 and replaces the ``xapi-db-mssql-2005`` database adapter.
+Note: This adapter is also compatible with MSSQL 2005 and replaces the old ``xapi-db-mssql-2005`` database adapter.
 
 
 ## XDEV-IDE
